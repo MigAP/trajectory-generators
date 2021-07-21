@@ -8,8 +8,8 @@
 
 clear all; 
 close all; 
-SAVE_FIGURE=1; 
-TRAJ_PLOTS=0; 
+SAVE_FIGURE=0; 
+TRAJ_PLOTS=1; 
 
 %% The point zero is the orign of the fixed frame 
 squareLength = 0.2;
